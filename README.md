@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Jeilson+Barbalho;Estou+Cursando+Sistemas+de+Informação+na+UFERSA;Seja+Bem-vindo!+:%29)]()
 
 <div align="center">
-  <a href="https://github.com/jeilson Barbalho">
+  <a href="https://github.com/jeilsonb">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeilsonb&show_icons=true&title_color=c9d1d9&icon_color=ffff00&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeilsonb&layout=compact&langs_count=7&title_color=c9d1d9&text_color=c9d1d9&theme=github_dark"/>
 </div>
